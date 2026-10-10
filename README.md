@@ -1,2 +1,2 @@
 ### A static weather app recreation for App Team Carolina Education Team/Bootcamp.
-<img width="304" height="575" alt="AppTeamWeatherProjectPreview" src="https://github.com/user-attachments/assets/f5db0786-5cc9-43ba-bf0b-f12441db05d2" />
+<img width="630" height="1380" alt="AppTeamWeatherProjectPreview" src="https://github.com/user-attachments/assets/f5db0786-5cc9-43ba-bf0b-f12441db05d2" />
